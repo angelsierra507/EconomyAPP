@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EconomyAPP",
+    "slug": "EconomyAPP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "EconomyAPP"
+}
